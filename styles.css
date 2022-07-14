@@ -1,9 +1,49 @@
+.row_1{
+    background: RGB(139,101,80,0.4);
+    align-items: center;
+}
+
 .row_1__pagename{
-    
-    padding-left: 4em;
+    text-align: center;
+    font-size: 1.8em;
 }
 
 .row_1__login{
     text-align: right;
+}
+
+.row_2{
+    outline: 0.1em solid #000;
+}
+
+.row_2__h2{
+    background: #bdcebe;
+    text-align: center;
+    padding: 1em;
+    font-size: 1em;
+}
+
+.row_2__grafico{
+    background: #bdcebe;
+}
+
+.row_2__noticia-dia{
+    background: RGB(139,101,80,0.2);
+}
+
+.row_2__titulo-noticia{
+    text-align: center;
+    font-size: 2em;
+    padding: 1em;
+}
+
+.span{
+    font-size: 1.1em;
+    padding-top: 1.5em;
+}
+
+.row_3{
+    text-align: center;
+    padding-top: 1em;
 }
 
